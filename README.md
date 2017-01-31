@@ -1,3 +1,4 @@
 # CPSC359-SnakeGame
 Classic Snake Game, with a twist.
-Programmed in ARM Architecture
+Collaborative Project with Maria Mamaclay.
+Programmed in ARM Architecture.
